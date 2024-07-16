@@ -1,0 +1,23 @@
+ *
+ {
+    margin: 0;
+    padding: 0;
+ } 
+ body{
+    font-family: sans-serif;
+ }
+  .footer {
+    margin-top: 20px;
+  }
+
+  #nav-bar{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+  }
+  .navbar{
+    background-image: linear-gradient(to right);
+    padding: 0 !important;
+  }
+
+  
